@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Assign random number to variable
+ *main - Assign random number to variable
  *
- * Return Always (Success)
+ *Return Always (Success)
  */
 int main(void)
 {
