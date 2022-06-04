@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int p, s, l
+	int p, s, l;
 
 	for (p = '0'; p < '8'; p++)
 	{
