@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Assign random number to variable and determines whether they are less than 6 greater than 5 or 0
+ * main - Assign random number to variable
  *
- * Return Always 0 (Success)
+ * Return Always (Success)
  */
 int main(void)
 {
@@ -23,10 +23,10 @@ int main(void)
 	{
 		printf("Last digit of %d is %d and is 0\n", n, lstd);
 	}
-	else 
+	else
 	{
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, lstd);
-	}	
+	}
 
 	return (0);
 
