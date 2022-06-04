@@ -9,18 +9,17 @@
 int main(void)
 {
 
-	char alphab = 'a'
+	char alphab = 'a';
 
 	while (alphab <= 'z')
-
 	{
 		if ((alphab != 'e') && (alphab != 'q'))
 		{
-			putchar(alphab)
+			putchar(alphab);
 		}
 		alphab++;
 	}
 	putchar('\n');
 
-	return (0)
+	return (0);
 }
