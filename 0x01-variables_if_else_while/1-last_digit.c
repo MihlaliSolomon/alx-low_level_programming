@@ -5,7 +5,7 @@
 /**
  *main - Assign random number to variable
  *
- *Return Always (Success)
+ *Return Always 0 (Success)
  */
 int main(void)
 {
