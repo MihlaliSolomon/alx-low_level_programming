@@ -5,7 +5,7 @@
 
 
 
-#define ms (_putchar)
+#define ms int main(int argc, char*argv[])
 
 
 
