@@ -1,15 +1,12 @@
-#ifndef _main_h_
-#define _main_h_
+#ifndef main_h
+#define main_h
 
-
-
-
-
-#define ms int main(int argc, char*argv[])
-
-
-
-
+/**
+ * main - use as main.h file
+ *
+ * Return: Always 0 (Success))
+ */
+int _putchar(char c);
 
 
 
