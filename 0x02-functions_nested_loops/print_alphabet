@@ -8,5 +8,5 @@
 int _putchar(char c)
 {
 	print_alphabet();
-	return (0);
+	return (1);
 }
