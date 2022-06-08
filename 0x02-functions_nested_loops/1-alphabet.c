@@ -5,15 +5,8 @@
  *
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)
+int _putchar(char c)
 {
-	int n;
-
-	for (n = 'a'; n <= 'z'; n++)
-	{
-		_putchar(n);
-	}
-	_putchar('\n');
-
+	print_alphabet();
 	return (0);
 }
